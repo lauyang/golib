@@ -1,2 +1,2 @@
-# goutils
-utils for golang
+# golib
+lib for golang
